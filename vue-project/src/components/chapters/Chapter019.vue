@@ -255,7 +255,7 @@
             But if you're gay and with us play
         </div>
         <div>
-            We'll do no harm to you.
+            We'll do no harm to you."
         </div>
     </div>
     <div>
